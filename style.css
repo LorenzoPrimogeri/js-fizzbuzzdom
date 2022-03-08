@@ -1,0 +1,24 @@
+/* generics */
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+  }
+  .square {
+    width: calc(100% / 10);
+    height: 96px;
+    padding: 5px;
+    text-align: center;
+    background-color: greenyellow;
+    vertical-align: middle;
+    line-height: 50px;
+  }
+.fizzBuzz{
+    background-color: turquoise;
+}
+.buzz{
+    background-color: lightsalmon;
+}
+.fizz{
+    background-color: lightslategray
+}
